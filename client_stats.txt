@@ -1,0 +1,67 @@
+IS370 Proxy Client - Request Statistics
+======================================================================
+
+Request #1
+  URL: http://example.com
+  Timestamp: 2025-11-19T18:06:50.314880
+  Total Time: 0.4720s
+  Status Code: 200
+  Cached: False
+  Response Size: 792 bytes
+
+Request #2
+  URL: http://example.com
+  Timestamp: 2025-11-19T18:06:53.330486
+  Total Time: 0.0058s
+  Status Code: 200
+  Cached: True
+  Response Size: 792 bytes
+
+Request #3
+  URL: http://example.com
+  Timestamp: 2025-11-19T18:06:54.336266
+  Total Time: 0.0016s
+  Status Code: 200
+  Cached: True
+  Response Size: 792 bytes
+
+Request #4
+  URL: http://example.com
+  Timestamp: 2025-11-19T18:06:55.344670
+  Total Time: 0.0045s
+  Status Code: 200
+  Cached: True
+  Response Size: 792 bytes
+
+Request #5
+  URL: http://www.example.org
+  Timestamp: 2025-11-19T18:06:58.707508
+  Total Time: 0.3539s
+  Status Code: 200
+  Cached: False
+  Response Size: 778 bytes
+
+Request #6
+  URL: http://www.example.org
+  Timestamp: 2025-11-19T18:06:59.729631
+  Total Time: 0.0162s
+  Status Code: 200
+  Cached: True
+  Response Size: 778 bytes
+
+Request #7
+  URL: http://facebook.com
+  Timestamp: 2025-11-19T18:07:02.753671
+  Total Time: 0.0153s
+  Status Code: 403
+  Cached: True
+  Response Size: 286 bytes
+
+Request #8
+  URL: http://www.examplwwexe.org
+  Timestamp: 2025-11-19T18:17:53.259650
+  Total Time: 0.0854s
+  Status Code: 502
+  Cached: False
+  Response Size: 307 bytes
+
